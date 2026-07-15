@@ -40,7 +40,7 @@
       @endif
 
       <span class="eyebrow">Fresh graduate — software engineering</span>
-      <h1> Tidak butuh kata <br> motivasi, yang dibutuhkan <em> cuma uang 10M</em>.</h1>
+      <h1> Mimpi itu gratis, <br> pembuktiannya <em> yang mahal </em>.</h1>
       <p class="lead">{{ $profile->bio }}</p>
       <div class="btn-row">
         <a href="#kontak" class="btn btn-primary">Hubungi saya</a>
